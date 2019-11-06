@@ -1,6 +1,6 @@
 # AdvancedBlog
 
-# Djnago,bootstrap
+# Django,bootstrap
 
 - Basic post publication,Pagination,Comments System...
 
